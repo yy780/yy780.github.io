@@ -1,5 +1,5 @@
 {
-    "title":"Meekdai",
+    "title":"免费博客",
     "subTitle":"童话是一种生活态度，仅此而已。",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
@@ -9,5 +9,9 @@
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "i18n":"CN",
     "UTC":8,
-    "urlMode":"pinyin"
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
+    "urlMode":"pinyin",
+    "style":"<style>#postBody{font-size:20px}</style>",
+    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>"
 }
