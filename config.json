@@ -1,8 +1,9 @@
 {
-    "title":"免费博客",
+    "title":"博客",
     "subTitle":"童话是一种生活态度，仅此而已。",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
+    "displayTitle":"测试",
     "startSite":"02/19/2024",
     "onePageListNum":15,
     "commentLabelColor":"#006b75",
