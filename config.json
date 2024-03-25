@@ -1,19 +1,13 @@
 {
-    "title":"这是博客",
-    "subTitle":"没什么用的免费博客",
+    "title":"Meekdai",
+    "subTitle":"童话是一种生活态度，仅此而已。",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
-    "startSite":"02216/2024",
-    "filingNum":"浙ICP备0001号",
+    "GMEEK_VERSION":"last",
+    "startSite":"02/19/2024",
     "onePageListNum":15,
-    "singlePage":[],
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "i18n":"CN",
     "UTC":8,
-    "dayTheme":"light",
-    "nightTheme":"dark_colorblind",
-    "urlMode":"pinyin",
-    "style":"",
-    "script":"",
+    "urlMode":"pinyin"
 }
