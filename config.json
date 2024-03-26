@@ -14,7 +14,7 @@
     "UTC":8,
     "dayTheme":"light",
     "nightTheme":"dark_colorblind",
-    "urlMode":"pinyin",
-    "style":"<style>#postBody{font-size:20px}</style>",
-    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>"
+    "urlMode":"pinyin"
+    "style":"",
+    "script":""
 }
