@@ -5,6 +5,7 @@
     "GMEEK_VERSION":"last",
     "displayTitle":"Hello",
     "startSite":"02/19/2024",
+    "singlePage":["关于"],
     "onePageListNum":15,
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
