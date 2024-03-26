@@ -59,7 +59,11 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
             <path id="pathSearch" fill-rule="evenodd"></path>
         </svg>
     </button></a>
-    <a href="https://yy780.github.io/link.html"><button class="btn btn-invisible circle" title="友情链接">
+    <a href="https://yy780.github.io/about.html"><button class="btn btn-invisible circle" title="关于">
+        <svg class="octicon" width="16" height="16" >
+            <path id="关于" fill-rule="evenodd"></path>
+        </svg>
+    </button></a><a href="https://yy780.github.io/link.html"><button class="btn btn-invisible circle" title="友情链接">
         <svg class="octicon" width="16" height="16" >
             <path id="友情链接" fill-rule="evenodd"></path>
         </svg>
@@ -79,18 +83,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="content">
 <div style="margin-bottom: 16px;">童话是一种生活态度，仅此而已。</div>
 <nav class="SideNav border">
-<a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/guan-yu.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">关于</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#AA8496"><object><a style="color:#fff" href="https://yy780.github.io/tag.html#about">about</a></object></span>
-        <span class="Label LabelTime" style="background-color:#bc4c00">2024-03-26</span>
-    </div>
-</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/wen-xue-tui-jian.html">
+<a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/wen-xue-tui-jian.html">
     <div class="d-flex flex-items-center">
         <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
@@ -167,7 +160,7 @@ for(var i=0;i<iconPost.length;i++){
     iconPost[i].setAttribute("d",IconList["post"]);
 }
 
-document.getElementById("友情链接").setAttribute("d",value=IconList["link"]);
+document.getElementById("关于").setAttribute("d",value=IconList["about"]);document.getElementById("友情链接").setAttribute("d",value=IconList["link"]);
 </script>
 
 </html>
